@@ -1,0 +1,130 @@
+@font-face {
+    font-family: 'RufinaALT02';
+    src: url('../fonts/rufina-alt02_regular.eot');
+    src: url('../fonts/rufina-alt02_regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/rufina-alt02_regular.woff') format('woff'),
+    url('../fonts/rufina-alt02_regular.ttf') format('truetype'),
+    url('../fonts/rufina-alt02_regular.svg#rufina-alt02_regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+body {
+	background: #fff6e0;
+}
+h1 {
+	font-family: 'RufinaALT02', Georgia, serif;
+	text-align: center;
+}
+h5 {
+	color: #fff !important;
+}
+h1, h2, h3, h4, h5 {
+	color: #b89d64;
+}
+.text-center {
+	text-align: center;
+}
+a:link {
+  color: #fff;
+  text-decoration: none;
+}
+a:visited {
+  color: #fff;
+}
+  color: hotpink;
+}
+a:active {
+  color: #fff;
+}
+.header-top {
+	height: 45px;
+	padding: 20px 0;
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+	background: #262422;
+}
+.slider-intro{
+	height: 250px;
+	width: 100%;
+	display: block;
+	background: url('../images/main-slider-img.jpg') repeat-x;
+	padding: 50px 0;
+}
+.slider-intro h1 {
+	font-size: 72px;
+	margin-top: 40px;
+}
+.cards {
+	width: 20%;
+	height: 150px;
+	padding: 20px;
+	margin: 0;
+	margin: 0 10px 0 0;
+	text-align: center;
+}
+.cards2 {
+	width: 20%;
+	height: 150px;
+	padding: 20px;
+	margin: 0 auto;
+	text-align: center;
+}
+.intro-c {
+	width: 1000px;
+	height: 350px;
+	display: block;
+	margin: 0 auto;
+	//background: blue;
+}
+.cards-center {
+	margin-top: -97.5px;
+	width: 100%;
+	height: 350px;
+}
+.c1 {
+	background: #b89d64;
+}
+.c2 {
+	background: #9e8757;
+}
+.c3 {
+	background: #3a2c24;
+}
+.c4 {
+	background: #2b1e17;
+}
+.icon {
+	width: 120px;
+}
+.footer-top {
+	background: #2b1b14;
+	width: 100%;
+	height: 10px;
+}
+.footer-bottom {
+	background: #1e130e;
+	width: 100%;
+	padding: 20px 0;
+}
+.footer-bottom p {
+	color: #fff;
+}
+#logo {
+	margin-top: 24px;
+}
+.fleft {
+	float: left;
+}
+.desc {
+	padding: 20px 0;
+}
+.price {
+	color: #3e2c1d;
+	font-size: 45px;
+}
